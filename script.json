@@ -1,9 +1,10 @@
 {
-    "BOT": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \n![jacky](https://raw.githubusercontent.com/hanamichy/EstherBot/master/img/239cb80.jpg)",
+    "BOT": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
 
-   "HELLO": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \n![jacky](https://raw.githubusercontent.com/hanamichy/EstherBot/master/img/239cb80.jpg)",
+    "HI": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
 
-   "HI": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \n![jacky](https://raw.githubusercontent.com/hanamichy/EstherBot/master/img/239cb80.jpg)",
+    "HELLO": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
+
 "EXPERIENCE": "Jacky has more than 10 years of marketing and branding experience. \nSee all the details on his %[LinkedIn profile](http://ca.linkedin.com/in/jackyleung)",
     "CONNECT ME": "",
     "DISCONNECT": "Chat soon, bye!"
