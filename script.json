@@ -5,7 +5,7 @@
 
     "HELLO": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
 
-“PHOTO”: “\N![Jacky](https://raw.githubusercontent.com/hanamichy/EstherBot/master/img/239cb80.jpg)”,
+“PHOTO”: “\n![Jacky](https://raw.githubusercontent.com/hanamichy/EstherBot/master/img/239cb80.jpg)”,
 “WEBSITE”: “Jacky’s website is %(http://jackyleung.ca)”,
 "EXPERIENCE": "Jacky has more than 10 years of marketing and branding experience. \nSee all the details on his %[LinkedIn profile](http://ca.linkedin.com/in/jackyleung)",
     "CONNECT ME": "",
