@@ -1,8 +1,7 @@
 {
     "BOT": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
 
-    "HI": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
-
+    "HI": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO %[Tell her](postback:twitter)",
     "HELLO": "Hey, I'm Jacky’s virtual assistant, here to tell you more about him. \n What would you like to know? \nEXPERIENCE  \nEXPERTISE \nWEBSITE \nPHOTO",
 "EXPERIENCE": "Jacky has more than 10 years of marketing and branding experience. \nSee all the details on his %[LinkedIn profile](http://ca.linkedin.com/in/jackyleung)",
 "EXPERTISE": "Jacky is a marketing strategist, brand expert, creative & art director, designer",
